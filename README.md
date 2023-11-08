@@ -1,6 +1,6 @@
 # awesome-PhysCharacter-papers
 
-*Last updated: Nov. 7, 2023*
+*Last updated: Nov. 8, 2023*
 
 <!-- - 
 
@@ -9,6 +9,8 @@
 -->
 
 ## 🔥 News
+
+- InsActor: Instruction-driven Physics-based Characters, ***NeurIPS 2023***. [[Website]](https://jiawei-ren.github.io/projects/insactor/index.html) [[Paper]](https://openreview.net/pdf?id=hXevuspQnX) [[Code]](https://github.com/jiawei-ren/insactor)
 
 - MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations, ***arXiv 2023***. [[Website]](https://pku-mocca.github.io/MoConVQ-page/) [[Paper]](https://arxiv.org/abs/2310.10198) [[Code]](https://github.com/PKU-MoCCA/MoConVQ)
 
