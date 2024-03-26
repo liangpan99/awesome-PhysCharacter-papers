@@ -33,3 +33,10 @@
 - Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning, ***ICLR 2024*** [[Website]](https://sites.google.com/view/vlm-rm) [[Paper]](https://openreview.net/forum?id=N0I2RtD8je) [[Code]](https://github.com/AlignmentResearch/vlmrm)
 
 - AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents, ***CVPR 2024*** [[Website]](https://anyskill.github.io/) [[Paper]](https://arxiv.org/abs/2403.12835) [[Code]](https://github.com/jiemingcui/anyskill)
+
+
+## Benchmarks
+
+- LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion, ***NeurIPS 2023 (Workshop)*** [[Website]](https://loco-mujoco.readthedocs.io/en/latest/) [[Paper]](https://arxiv.org/abs/2311.02496) [[Code]](https://github.com/robfiras/loco-mujoco)
+
+- HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, ***arXiv 2024*** [[Website]](https://humanoid-bench.github.io/) [[Paper]](https://arxiv.org/abs/2403.10506) [[Code]](https://github.com/carlosferrazza/humanoid-bench)
