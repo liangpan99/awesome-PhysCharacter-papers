@@ -1,6 +1,6 @@
 # awesome-PhysCharacter-papers
 
-*Last updated: Dec. 11, 2023*
+*Last updated: Mar. 26, 2024*
 
 <!-- - 
 
@@ -26,3 +26,10 @@
 - AdaptNet: Policy Adaptation for Physics-Based Character Control, ***SIGGRAPH Asia 2023 (Journal Track)*** [[Website]](https://motion-lab.github.io/AdaptNet/) [[Paper]](https://arxiv.org/abs/2310.00239) [[Code]](https://github.com/xupei0610/AdaptNet)
 
 - Neural Categorical Priors for Physics-Based Character Control, ***SIGGRAPH Asia 2023 (Journal Track)*** [[Website]](https://tencent-roboticsx.github.io/NCP/) [[Paper]](https://arxiv.org/abs/2308.07200) [Code]
+
+
+## Vision-Language Models as Reward Models
+
+- Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning, ***ICLR 2024*** [[Website]](https://sites.google.com/view/vlm-rm) [[Paper]](https://openreview.net/forum?id=N0I2RtD8je) [[Code]](https://github.com/AlignmentResearch/vlmrm)
+
+- AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents, ***CVPR 2024*** [[Website]](https://anyskill.github.io/) [[Paper]](https://arxiv.org/abs/2403.12835) [[Code]](https://github.com/jiemingcui/anyskill)
